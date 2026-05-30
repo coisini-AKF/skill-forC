@@ -10,4 +10,12 @@ Repository convention:
 
 Current skills:
 
+- `cad`
+- `cad-explorer`
+- `codex-ppt`
+- `sdf`
+- `sendcutsend`
+- `srdf`
+- `step-parts`
 - `skill-installer`
+- `urdf`
