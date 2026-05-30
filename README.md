@@ -13,6 +13,8 @@ Current skills:
 - `cad`
 - `cad-explorer`
 - `codex-ppt`
+- `documents`
+- `pdf`
 - `sdf`
 - `sendcutsend`
 - `srdf`
